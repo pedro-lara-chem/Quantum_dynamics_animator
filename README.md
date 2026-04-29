@@ -59,4 +59,5 @@ MIT License
 
 ## Acknowledgments
 Work produced with the support of a 2024 Leonardo Grant for Scientific Research and Cultural Creation, BBVA Foundation.
+
 ![](Leonardo.jpg)

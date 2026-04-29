@@ -1,0 +1,8 @@
+numpy
+scipy
+numba
+pyvista
+matplotlib
+imageio
+imageio-ffmpeg
+tqdm

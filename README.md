@@ -56,3 +56,6 @@ Run the script from your terminal. If you don't provide a directory, it will loo
 
 ## License
 MIT License
+
+## Acknowledgments
+Work produced with the support of a 2024 Leonardo Grant for Scientific Research and Cultural Creation, BBVA Foundation.

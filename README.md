@@ -58,6 +58,7 @@ Run the script from your terminal. If you don't provide a directory, it will loo
 MIT License
 
 ## Acknowledgments
+ This work was supported by **Síntesis y modelizaciòn de materiales moleculares orgánicos y metalocenos en el estado fundamental y excitado** under grant number **$$PID2021-125207NB-C31$$**.
 Work produced with the support of a 2024 Leonardo Grant for Scientific Research and Cultural Creation, BBVA Foundation.
 
 ![](Leonardo.jpg)
